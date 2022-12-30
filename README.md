@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ziaur Abdirahman
+### Hi there 👋, my name is Ziaur Rahman
 #### Web/WordPress Developer & Digital Marketer
 
 
