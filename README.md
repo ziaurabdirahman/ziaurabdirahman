@@ -6,7 +6,7 @@ I am a full-stack web developer and designer. I am experienced in Html, CSS, Jav
 
 Skills: HTML / CSS / JS / PHP / WordPress / Shopify / GIT / Facebook & Google Ads / Others
 
-#### Contact me at: http://ziaurabdirahman.xyz
+#### Contact me at: http://ziaurabdirahman.com
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ziaurabdirahman)](https://github.com/ryo-ma/github-profile-trophy)
