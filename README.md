@@ -52,22 +52,6 @@ I have extensive experience building eCommerce stores, business websites, and di
 - cPanel
 - Linux Hosting
 
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ziaurabdirahman&theme=flat&margin-w=15&no-frame=true" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ziaurabdirahman&show_icons=true&theme=default" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaurabdirahman&layout=compact&theme=default" height="170"/>
-</p>
 
 ---
 
